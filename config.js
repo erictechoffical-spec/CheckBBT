@@ -2,10 +2,10 @@
 
 const API_CONFIG = {
   // 正式環境的 API URL
-  apiUrl: "https://script.google.com/macros/s/AKfycbwQeSXcQUO4zgazZb9yxq6EvA1mcmtZTWpuv-LWTApIirGOG_7OGTIYx3beLjGNKz8fgQ/exec",
+  apiUrl: "https://script.google.com/macros/s/AKfycbw85Jc2N46IXHr-5H-ivjVwUGPJbNwFBfd_U-FJ53PLqNY8Awe_s5jmJl_-DvR-0qc7/exec",
   
   // 新增回呼網址
-  redirectUrl: "https://eric693.github.io/New_Attendance-System/"
+  redirectUrl: "https://erictechoffical-spec.github.io/CheckBBT/"
   // 你也可以在這裡加入其他設定，例如：
   // timeout: 5000,
   // version: 'v4.0.9'
